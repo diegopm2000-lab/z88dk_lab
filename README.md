@@ -1,1 +1,3 @@
-z88dk_lab
+# Laboratorio de Z88dk
+
+Compilador cruzado en C para procesadores z80 (8-bits) cómo ZX-Spectrum, Amstrad CPC, MSX, Sega Master System, etc...
