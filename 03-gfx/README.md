@@ -16,6 +16,6 @@ Esto creará los siguientes ficheros:
 
 Se puede cargar de la forma habitual en FUSE y ver como se ejecuta.
 
-Si todo ha ido bien, podremos ver como se va dibujando la siguiene imagen:
+Si todo ha ido bien, podremos ver como se va dibujando la siguiente imagen:
 
 ![alt text](spectrum_gfx.png)
