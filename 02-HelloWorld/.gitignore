@@ -1,0 +1,10 @@
+# .tap files
+*.tap
+# .bin files
+*.bin
+# .def files
+*.def
+# hello without extension
+hello
+
+
