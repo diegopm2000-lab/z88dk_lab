@@ -1,0 +1,9 @@
+# .tap files
+*.tap
+# .bin files
+*.bin
+# .def files
+*.def
+
+
+
