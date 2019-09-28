@@ -4,6 +4,8 @@
 *.bin
 # .def files
 *.def
+# gfx file without extension
+gfx
 
 
 
