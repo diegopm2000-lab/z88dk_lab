@@ -3,7 +3,7 @@
 ### 1. Compilamos y tapeamos el fichero fuente:
 
 ```shell
-$ zcc +zx -lm -lndos -create-app gfx.c
+$ zcc +zx -lm -lndos -create-app -o gfx gfx.c
 ```
 
 Esto creará los siguientes ficheros:
