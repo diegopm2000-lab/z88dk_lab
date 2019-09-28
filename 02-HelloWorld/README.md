@@ -2,6 +2,6 @@
 
 Para crear el fichero compilado .tap ejecutar lo siguiente:
 
-```
-zcc +zx -lndos -create-app -o hello hello.c
+```shell
+$ zcc +zx -lndos -create-app -o hello hello.c
 ```
