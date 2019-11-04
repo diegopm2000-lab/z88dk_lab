@@ -1,15 +1,11 @@
 # Calculator
 
-### 1. Compilar el programa
-
-### 1. Compilamos y tapeamos el fichero fuente:
+### 1. Compiling and taping the source file
 
 ```shell
 $ zcc +zx -clib=ansi -lm -lndos -create-app -o calculator main.c
 ```
 
-### 2. Ejecutar el programa una vez compilado
+### 2. Executing the program
 
-```shell 
-$ ./main.out
-```
+It can be loaded as usual in FUSE and see how it runs.
